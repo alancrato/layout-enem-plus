@@ -64,7 +64,6 @@
 
 .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
     color: aliceblue;
-    font-weight: 400;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -75,11 +74,13 @@
 .navbar-expand-lg .navbar-nav .nav-link {
     padding-right: 1.5rem;
     padding-left: .5rem;
+    font-weight: 300;
 }
 
 .navbar-light .navbar-text {
     color: #bdc0c3ba;
     margin-right: 18px;
+    font-weight: 300;
 }
 
 
