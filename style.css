@@ -1,0 +1,91 @@
+
+.container{
+    width: 70%;
+}
+
+.top{
+    height: 40px;
+    padding: 6px;
+    border-bottom: 1px solid #e1e4e6;
+    background-color: #70809012;
+    font-size: 0.9em;
+    font-weight: 300;
+}
+
+.center{
+    background-color: ghostwhite;
+}
+
+.logo{
+    padding-top: 10px;
+    margin-left: -18px;
+}
+
+.menu{
+    height: 40px;
+    padding-top: 6px;
+    background-color: #1daddd;
+    color: aliceblue;
+    font-size: 1em;
+    font-weight: 400;
+}
+
+.format-content-nav{
+    font-size: 0.9em;
+    font-weight: 300;
+    padding-top: 14px;
+}
+
+.oi{
+    /*color: #1daddd;*/
+    color: #2a2c2d;
+}
+
+.btn{
+    font-weight: 300;
+}
+
+.btn-outline-danger {
+    border-color: #dc35457d;
+}
+
+.btn-outline-warning {
+    border-color: #ffc1078f;
+}
+
+.bg-navbar{
+    /*background-color: #1daddd;*/
+    background-color: #2a2c2d;
+}
+
+.navbar{
+    padding: 0.3em 0.6rem;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: aliceblue;
+    font-weight: 400;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    /*color: #2f3031ba;*/
+    color: #bdc0c3ba;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1.5rem;
+    padding-left: .5rem;
+}
+
+.navbar-light .navbar-text {
+    color: #bdc0c3ba;
+    margin-right: 18px;
+}
+
+
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 70%;
+    }
+}
