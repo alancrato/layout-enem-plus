@@ -63,7 +63,7 @@
                 <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">About Us</a>
+                <a class="nav-link" href="#">Nosso Enem</a>
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -78,18 +78,18 @@
                 </div>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Courses</a>
-            </li>
-            <li class="nav-item">
                 <a class="nav-link" href="#">Blog</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Contact</a>
+                <a class="nav-link" href="#">Videos</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Material</a>
             </li>
         </ul>
 
         <span class="navbar-text">
-          Navbar text with an inline element
+          Plus Fm & Farias Brito
         </span>
         <!--<form class="form-inline my-2 my-lg-0">
             <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
@@ -121,60 +121,346 @@
     </a>
 </div>
 
-
-
-
-<!--
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-        <a class="navbar-brand" href="#">Hidden brand</a>
-        <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-            <li class="nav-item active">
-                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Link</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link disabled" href="#">Disabled</a>
-            </li>
-        </ul>
-        <span class="navbar-text">
-          Navbar text with an inline element
-        </span>
-    </div>
-</nav>
-
-
-<div class="container-fluid">
-
-</div>
-
-<div class="container">
+<div class="container-fluid bg-app">
     <div class="row">
-        <div class="col-sm">
-            One of three columns
-        </div>
-        <div class="col-sm">
-            One of three columns
-        </div>
-        <div class="col-sm">
-            One of three columns
-        </div>
-    </div>
-    <div class="row">
-        <div class="media">
-            <img class="mr-3" src="..." alt="Generic placeholder image">
-            <div class="media-body">
-                <h5 class="mt-0">Media heading</h5>
-                Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+        <div class="container">
+            <div class="row padding-app">
+                <div class="card-app-one">
+                    <div class="icon-ebook">
+                        <span class="oi calendar" data-glyph="calendar"></span>
+                    </div>
+                    <div class="content-ebook">
+                        How to learm web development easily
+                    </div>
+                </div>
+                <div class="card-app-two">
+                    <div class="icon-ebook">
+                        <span class="oi calendar" data-glyph="bell"></span>
+                    </div>
+                    <div class="content-ebook">
+                        How to learm web development easily
+                    </div>
+                </div>
+                <div class="card-app-tre">
+                    <div class="icon-ebook">
+                        <span class="oi calendar" data-glyph="globe"></span>
+                    </div>
+                    <div class="content-ebook">
+                        How to learm web development easily
+                    </div>
+                </div>
             </div>
         </div>
     </div>
-</div>-->
+</div>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="container">
+            <div class="row padding-app">
+                <div class="col-8">
+                    <h3>
+                        Welcome to our<br/>
+                        Studylab Oline Kindergarten
+                    </h3>
+                    <div class="content-calendar">
+                        Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos.<br>
+                    </div>
+                    <h6 class="padding-app">
+                        Read more about us
+                    </h6>
+
+                    <div class="bloc-one"></div>
+                    <div class="bloc-two"></div>
+                </div>
+                <div class="col-4">
+                    <h3>Upcoming Events</h3>
+                    <div class="bloc-tre">
+                        <div class="date-app">
+                            <div class="number-date">
+                                20
+                            </div>
+                            <div class="month-date">
+                                July
+                            </div>
+                        </div>
+                        <div class="content-app">
+                            Welcome to our dates<br/>
+                            <div class="icon-date">
+                                <span class="oi" data-glyph="clock"></span> July 20, 2018
+                            </div>
+                            Lorem Ipsum é simplesmente uma simulação de texto
+                        </div>
+                    </div>
+                    <div class="padding-app"></div>
+                    <div class="bloc-tre">
+                        <div class="date-app">
+                            <div class="number-date">
+                                19
+                            </div>
+                            <div class="month-date">
+                                July
+                            </div>
+                        </div>
+                        <div class="content-app">
+                            Welcome to our dates<br/>
+                            <div class="icon-date">
+                                <span class="oi" data-glyph="clock"></span> July 20, 2018
+                            </div>
+                            Lorem Ipsum é simplesmente uma simulação de texto
+                        </div>
+                    </div>
+                    <div class="padding-app"></div>
+                    <div class="bloc-tre">
+                        <div class="date-app">
+                            <div class="number-date">
+                                18
+                            </div>
+                            <div class="month-date">
+                                July
+                            </div>
+                        </div>
+                        <div class="content-app">
+                            Welcome to our dates<br/>
+                            <div class="icon-date">
+                                <span class="oi" data-glyph="clock"></span> July 20, 2018
+                            </div>
+                            Lorem Ipsum é simplesmente uma simulação de texto
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="padding-app"></div>
+<div class="padding-app"></div>
+
+<div class="container-fluid bg-app-news">
+    <div class="row">
+        <div class="container">
+            <div class="row padding-app">
+                <div class="center-news">
+                    <h3>Our latest  news</h3>
+                </div>
+            </div>
+            <div class="row padding-app">
+                <div class="col-4">
+                    <div class="card">
+                        <img class="card-img-top" src="assets/img/posts/news1.jpeg" width="100%" height="170px" alt="Card image cap">
+                        <div class="card-body">
+                            <div class="icon-news">
+                                <span class="oi" data-glyph="clock"></span> July 20, 2018
+                            </div>
+                            <h5 class="card-title">
+                                How to learm web development easily
+                            </h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <a href="#">Read More ></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="card">
+                        <img class="card-img-top" src="assets/img/posts/news2.jpeg" alt="Card image cap">
+                        <div class="card-body">
+                            <div class="icon-news">
+                                <span class="oi" data-glyph="clock"></span> July 19, 2018
+                            </div>
+                            <h5 class="card-title">
+                                How to learm web development easily
+                            </h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <a href="#">Read More ></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="card">
+                        <img class="card-img-top" src="assets/img/posts/news3.jpg" alt="Card image cap">
+                        <div class="card-body">
+                            <div class="icon-news">
+                                <span class="oi" data-glyph="clock"></span> July 18, 2018
+                            </div>
+                            <h5 class="card-title">
+                                How to learm web development easily
+                            </h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <a href="#">Read More ></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid bg-app-data">
+
+    <div class="padding-app"></div>
+
+    <div class="row">
+        <div class="col-3"></div>
+        <div class="col-6">
+            <div class="center-data text-center">
+                <h3>What our Achieves</h3>
+                Some quick example text to build on the card title and make up the bulk of the card's content.
+                Title and make up the bulk of the card's content.
+            </div>
+        </div>
+        <div class="col-3"></div>
+    </div>
+
+    <div class="padding-app"></div>
+
+    <div class="row">
+        <div class="col-2"></div>
+        <div class="col-3">
+            <div class="icon-ebook">
+                <span class="oi state" data-glyph="people"></span>
+            </div>
+            <div class="content-state">
+                How to learm web development easily
+            </div>
+        </div>
+        <div class="col-3">
+            <div class="icon-ebook">
+                <span class="oi state" data-glyph="person"></span>
+            </div>
+            <div class="content-state">
+                How to learm web development easily
+            </div>
+        </div>
+        <div class="col-3">
+            <div class="icon-ebook">
+                <span class="oi state" data-glyph="bullhorn"></span>
+            </div>
+            <div class="content-state">
+                How to learm web development easily
+            </div>
+        </div>
+        <div class="col-4"></div>
+    </div>
+
+</div>
+
+<div class="padding-app"></div>
+
+<div class="container-fluid">
+    <div class="row">
+
+        <div class="container">
+            <div class="row padding-app">
+                <div class="center-news">
+                    <h3>Our latest  Videos</h3>
+                </div>
+            </div>
+            <div class="row padding-app">
+                <div class="col-7">
+                    <h3>
+                        Welcome to our<br/>
+                        Studylab Oline Kindergarten
+                    </h3>
+                    <div class="content-calendar">
+                        Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos.<br>
+                    </div>
+                    <h6 class="padding-app">
+                        Read more videos >
+                    </h6>
+                </div>
+                <div class="col-5">
+                    <div class="ifrane-videos">
+                        <iframe src="https://player.vimeo.com/video/180290724?title=0&byline=0&portrait=0" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<div class="padding-app"></div>
+
+<div class="footer">
+    <div class="padding-app"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+
+                <!-- About Us -->
+                <h5 class="section_footer__heading">
+                    About Us
+                </h5>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti dolorum, sint corporis nostrum, possimus unde eos vitae eius quasi saepe.
+                </p>
+
+            </div>
+            <div class="col-sm-4">
+
+                <!-- Contact info -->
+                <h5 class="section_footer__heading">
+                    Contact info
+                </h5>
+                <div class="section_footer__info">
+                    <ul>
+                        <li>
+                            <i class="oi calendar-footer" data-glyph="location"></i>
+                            <div class="content-info">1234, New York, 10027-0000</div>
+                        </li>
+                        <li>
+                            <i class="oi calendar-footer" data-glyph="phone"></i>
+                            <div class="content-info-phone">(85) 9-8888-8888</div>
+                        </li>
+                        <li>
+                            <i class="oi calendar-footer" data-glyph="envelope-closed"></i>
+                            <div class="content-info-email">exemple@email.com</div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-sm-4">
+
+                <!-- Opening hours -->
+                <h5 class="section_footer__heading">
+                    Opening hours
+                </h5>
+                <div class="section_footer__open">
+                    <div class="section_footer__open__days">Monday - Thursday</div>
+                    <div class="section_footer__open__time">10:00 AM - 11:00 PM</div>
+                </div>
+                <div class="section_footer__open">
+                    <div class="section_footer__open__days">Friday - Sunday</div>
+                    <div class="section_footer__open__time">12:00 AM - 03:00 AM</div>
+                </div>
+
+            </div>
+        </div> <!-- / .row -->
+        <div class="row">
+            <div class="col-12">
+
+                <!-- Copyright -->
+                <div class="section_footer__copyright">
+                    <i class="fa fa-copyright"></i> <span id="js-current-year"></span> Touché. All rights reserved.
+                </div>
+
+            </div>
+        </div> <!-- / .row -->
+    </div> <!-- / .container -->
+    <div class="padding-app"></div>
+    <div class="copy-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-6">
+                    @ <?= date('Y');?> Nosso Enem é Plus
+                </div>
+                <div class="col-6"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
