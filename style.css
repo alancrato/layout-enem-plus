@@ -144,13 +144,17 @@ ul li{
 }
 
 .state{
-    font-size: 2.2em;
+    font-size: 2.8em;
     color: black;
 }
 
 .content-state{
     color: black;
     padding: 30px 4px;
+}
+
+strong{
+    font-size: 1.4em;
 }
 
 .content-ebook{
@@ -270,7 +274,7 @@ a:hover {
 .bg-app-data{
     width: 100%;
     height: 280px;
-    background-image: url("assets/img/pattern.jpg");
+    background-image: url("assets/img/bg-news.png");
     background-size: auto;
     background-repeat: repeat;
 }

@@ -148,7 +148,7 @@
                 <span class="oi state" data-glyph="people"></span>
             </div>
             <div class="content-state">
-                How to learm web development easily
+                <strong>120+ k</strong><br/> students Enrolled
             </div>
         </div>
         <div class="col-3">
@@ -156,7 +156,7 @@
                 <span class="oi state" data-glyph="person"></span>
             </div>
             <div class="content-state">
-                How to learm web development easily
+                <strong>100%</strong><br/> Satisfied Parents
             </div>
         </div>
         <div class="col-3">
@@ -164,7 +164,7 @@
                 <span class="oi state" data-glyph="bullhorn"></span>
             </div>
             <div class="content-state">
-                How to learm web development easily
+                <strong>591</strong><br/> Award Achieve
             </div>
         </div>
         <div class="col-4"></div>
