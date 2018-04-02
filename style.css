@@ -114,7 +114,8 @@ ul li{
 
 .bg-app{
     height: 160px;
-    background-color: #e1e4e659;
+    background-color: #fdfdfd59;
+    border-bottom: 1px solid #ccccccad;
 }
 
 .padding-app{
@@ -236,7 +237,9 @@ ul li{
 
 .bg-app-news{
     height: 520px;
-    background-color: #e1e4e659;
+    background-color: #fdfdfd;
+    border-bottom: 1px solid #ccccccad;
+    border-top: 1px solid #ccccccad;
 }
 
 .h5, h5 {
