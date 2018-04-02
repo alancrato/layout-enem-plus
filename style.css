@@ -145,11 +145,11 @@ ul li{
 
 .state{
     font-size: 2.8em;
-    color: black;
+    color: lightsalmon;
 }
 
 .content-state{
-    color: black;
+    color: antiquewhite;
     padding: 30px 4px;
 }
 
@@ -281,6 +281,7 @@ a:hover {
 
 .center-data{
     margin: 0 auto;
+    color: antiquewhite;
 }
 
 .ifrane-videos iframe{

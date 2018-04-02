@@ -42,34 +42,34 @@
             <div class="row padding-app">
                 <div class="col-8">
                     <h3>
-                        Welcome to our<br/>
-                        Studylab Oline Kindergarten
+                        Bem vindo ao nosso<br/>
+                        Portal de preparação para o enem.
                     </h3>
                     <div class="content-calendar">
                         Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos.<br>
                     </div>
                     <h6 class="padding-app">
-                        Read more about us
+                        Leia mais sobre nós.
                     </h6>
 
                     <div class="bloc-one"></div>
                     <div class="bloc-two"></div>
                 </div>
                 <div class="col-4">
-                    <h3>Upcoming Events</h3>
+                    <h3>Próximos eventos</h3>
                     <div class="bloc-tre">
                         <div class="date-app">
                             <div class="number-date">
                                 20
                             </div>
                             <div class="month-date">
-                                July
+                                Julho
                             </div>
                         </div>
                         <div class="content-app">
-                            Welcome to our dates<br/>
+                            Confira as datas<br/>
                             <div class="icon-date">
-                                <span class="oi" data-glyph="clock"></span> July 20, 2018
+                                <span class="oi" data-glyph="clock"></span> 20 Julho 2018
                             </div>
                             Lorem Ipsum é simplesmente uma simulação de texto
                         </div>
@@ -81,13 +81,13 @@
                                 19
                             </div>
                             <div class="month-date">
-                                July
+                                Julho
                             </div>
                         </div>
                         <div class="content-app">
-                            Welcome to our dates<br/>
+                            Confira as datas<br/>
                             <div class="icon-date">
-                                <span class="oi" data-glyph="clock"></span> July 20, 2018
+                                <span class="oi" data-glyph="clock"></span> 19 Julho 2018
                             </div>
                             Lorem Ipsum é simplesmente uma simulação de texto
                         </div>
@@ -99,13 +99,13 @@
                                 18
                             </div>
                             <div class="month-date">
-                                July
+                                Julho
                             </div>
                         </div>
                         <div class="content-app">
-                            Welcome to our dates<br/>
+                            Confira as datas<br/>
                             <div class="icon-date">
-                                <span class="oi" data-glyph="clock"></span> July 20, 2018
+                                <span class="oi" data-glyph="clock"></span> 18 Julho 2018
                             </div>
                             Lorem Ipsum é simplesmente uma simulação de texto
                         </div>
@@ -131,9 +131,9 @@
         <div class="col-3"></div>
         <div class="col-6">
             <div class="center-data text-center">
-                <h3>What our Achieves</h3>
-                Some quick example text to build on the card title and make up the bulk of the card's content.
-                Title and make up the bulk of the card's content.
+                <h3>Nossas conquistas</h3>
+                    Some quick example text to build on the card title and make up the bulk of the card's content.
+                    Title and make up the bulk of the card's content.
             </div>
         </div>
         <div class="col-3"></div>
@@ -148,7 +148,7 @@
                 <span class="oi state" data-glyph="people"></span>
             </div>
             <div class="content-state">
-                <strong>120+ k</strong><br/> students Enrolled
+                <strong>120+ k</strong><br/> Alunos Matriculados
             </div>
         </div>
         <div class="col-3">
@@ -156,7 +156,7 @@
                 <span class="oi state" data-glyph="person"></span>
             </div>
             <div class="content-state">
-                <strong>100%</strong><br/> Satisfied Parents
+                <strong>100%</strong><br/> Páis Satisfeitos
             </div>
         </div>
         <div class="col-3">
@@ -164,7 +164,7 @@
                 <span class="oi state" data-glyph="bullhorn"></span>
             </div>
             <div class="content-state">
-                <strong>591</strong><br/> Award Achieve
+                <strong>591</strong><br/> Inscrições
             </div>
         </div>
         <div class="col-4"></div>
@@ -180,20 +180,20 @@
         <div class="container">
             <div class="row padding-app">
                 <div class="center-news">
-                    <h3>Our latest  Videos</h3>
+                    <h3>Conteúdos em vídeos</h3>
                 </div>
             </div>
             <div class="row padding-app">
                 <div class="col-7">
                     <h3>
-                        Welcome to our<br/>
-                        Studylab Oline Kindergarten
+                        Bem vindo ao nosso<br/>
+                        canal de conteúdo em vídeos.
                     </h3>
                     <div class="content-calendar">
                         Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos.<br>
                     </div>
                     <h6 class="padding-app">
-                        Read more videos >
+                        Confira mais Vídeos >
                     </h6>
                 </div>
                 <div class="col-5">

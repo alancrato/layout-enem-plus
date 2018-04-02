@@ -89,7 +89,7 @@
         </ul>
 
         <span class="navbar-text">
-          Plus Fm & Farias Brito
+          Plus Fm // Farias Brito
         </span>
     </div>
 </nav>

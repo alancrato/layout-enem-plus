@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row padding-app">
                 <div class="center-news">
-                    <h3>Our latest  news</h3>
+                    <h3>Nossas últimas novidades</h3>
                 </div>
             </div>
             <div class="row padding-app">

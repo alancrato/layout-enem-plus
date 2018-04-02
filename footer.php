@@ -6,7 +6,7 @@
 
                 <!-- About Us -->
                 <h5 class="section_footer__heading">
-                    About Us
+                    Sobre Nós
                 </h5>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti dolorum, sint corporis nostrum, possimus unde eos vitae eius quasi saepe.
@@ -17,7 +17,7 @@
 
                 <!-- Contact info -->
                 <h5 class="section_footer__heading">
-                    Contact info
+                    Informações de contato
                 </h5>
                 <div class="section_footer__info">
                     <ul>
@@ -40,7 +40,7 @@
 
                 <!-- Opening hours -->
                 <h5 class="section_footer__heading">
-                    Opening hours
+                   Horários Operacionais
                 </h5>
                 <div class="section_footer__open">
                     <div class="section_footer__open__days">Monday - Thursday</div>
@@ -58,7 +58,7 @@
 
                 <!-- Copyright -->
                 <div class="section_footer__copyright">
-                    <i class="fa fa-copyright"></i> <span id="js-current-year"></span> Touché. All rights reserved.
+                    <i class="fa fa-copyright"></i> <span id="js-current-year"></span> Plsu Fm. Todos os direitos reservados.
                 </div>
 
             </div>
