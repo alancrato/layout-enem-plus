@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/css/bootstrap/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/open-iconic.css"/>
     <link rel="stylesheet" href="singin.css"/>
     <link rel="icon" href="assets/img/favicon.png"/>
@@ -29,11 +29,11 @@
         <label for="password">Senha</label>
     </div>
 
-    <div class="checkbox mb-3">
-        <label class="remember">
-            <input type="checkbox" value="remember-me"> Lembrar me
-        </label>
+    <div class="custom-control custom-checkbox">
+        <input type="checkbox" class="custom-control-input" id="same-address" value="remember-me">
+        <label class="custom-control-label" for="same-address">Lembrar me</label>
     </div>
+
     <button class="btn btn-lg btn-primary btn-block" type="submit">Login</button>
     <div class="account-title">Não tem conta?</div>
     <button class="btn btn-lg btn-danger btn-block" type="submit">Criar Conta</button>
